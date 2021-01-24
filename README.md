@@ -1,5 +1,6 @@
 # deep_learning
 The agents were trained based on the provided dqn exercises and achieved an average score of 13 or higher.
+I ran the code in the workspace provided by Udacity. The installation steps for the review requirements were skipped.
 # Enviroment
 Environment:
 State: 37 discrete spaces[37].
